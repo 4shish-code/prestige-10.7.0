@@ -102,10 +102,10 @@
             "heading_tag": "h1"
           }
         },
-        "subheading_db8VEk": {
-          "type": "subheading",
+        "richtext_Vxi89h": {
+          "type": "richtext",
           "settings": {
-            "text": "Subheading"
+            "content": "<p>A 361-square-foot modular home, offering a stylish, efficient living space with a kitchen, bathroom, and bedroom.</p>"
           }
         },
         "button_ppkKPC": {
@@ -131,7 +131,7 @@
       },
       "block_order": [
         "heading_htQ7rQ",
-        "subheading_db8VEk",
+        "richtext_Vxi89h",
         "button_ppkKPC",
         "button_yBTG3N"
       ],
@@ -139,6 +139,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
+        "image": "shopify://shop_images/20250413_1340_House-in-Nature_remix_01jrpctb52ecys24dg65gt293v-1_inPixio.jpg",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
@@ -155,10 +156,10 @@
             "heading_tag": "h1"
           }
         },
-        "subheading_eatx8d": {
-          "type": "subheading",
+        "richtext_8VJxkH": {
+          "type": "richtext",
           "settings": {
-            "text": "Subheading"
+            "content": "<p>A 120-square-foot living space built to the RV code. Easy setup, no special equipment or foundation needed.</p>"
           }
         },
         "button_jFEit9": {
@@ -184,7 +185,7 @@
       },
       "block_order": [
         "heading_FQbBbn",
-        "subheading_eatx8d",
+        "richtext_8VJxkH",
         "button_jFEit9",
         "button_36h6xD"
       ],
@@ -192,6 +193,7 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
+        "image": "shopify://shop_images/apple-cabin.png",
         "reveal_on_scroll": true,
         "image_position": "start",
         "content_width": "sm",
