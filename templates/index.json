@@ -217,7 +217,7 @@
         "separate_section_with_border": true,
         "blog": "news",
         "posts_count": 2,
-        "stack_on_mobile": false,
+        "stack_on_mobile": true,
         "show_category": true,
         "show_date": false,
         "show_excerpt": true,
