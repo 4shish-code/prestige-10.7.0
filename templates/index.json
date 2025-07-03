@@ -42,6 +42,112 @@
         "text_color": "#ffffff"
       }
     },
+    "image_with_text_raBWtd": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_htQ7rQ": {
+          "type": "heading",
+          "settings": {
+            "text": "Expandable Homes",
+            "heading_tag": "h1"
+          }
+        },
+        "subheading_db8VEk": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "button_ppkKPC": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "LEARN More",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "button_yBTG3N": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Order now",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_htQ7rQ",
+        "subheading_db8VEk",
+        "button_ppkKPC",
+        "button_yBTG3N"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
+    "image_with_text_iYaMEh": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading_FQbBbn": {
+          "type": "heading",
+          "settings": {
+            "text": "modern capsules",
+            "heading_tag": "h1"
+          }
+        },
+        "subheading_eatx8d": {
+          "type": "subheading",
+          "settings": {
+            "text": "Subheading"
+          }
+        },
+        "button_jFEit9": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "LEARN More",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        },
+        "button_36h6xD": {
+          "type": "button",
+          "settings": {
+            "style": "solid",
+            "text": "Order now",
+            "url": "",
+            "background": "",
+            "text_color": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_FQbBbn",
+        "subheading_eatx8d",
+        "button_jFEit9",
+        "button_36h6xD"
+      ],
+      "name": "t:sections.image_with_text.presets.image_with_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "reveal_on_scroll": true,
+        "image_position": "start",
+        "content_width": "sm",
+        "remove_vertical_spacing": true
+      }
+    },
     "logo_list_JTBwLL": {
       "type": "logo-list",
       "blocks": {
@@ -72,21 +178,13 @@
             "logo_width": 120,
             "link": ""
           }
-        },
-        "logo_aGj9Wa": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
         }
       },
       "block_order": [
         "logo_gHzdUF",
         "logo_kNdMKr",
         "logo_ddn9b3",
-        "logo_PPDbhk",
-        "logo_aGj9Wa"
+        "logo_PPDbhk"
       ],
       "name": "t:sections.logo_list.presets.logo_list.name",
       "settings": {
@@ -98,35 +196,6 @@
         "items_per_row": 4,
         "logo_item_background": "",
         "logo_item_border": ""
-      }
-    },
-    "featured-collections": {
-      "type": "featured-collections",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "",
-            "products_count": 8,
-            "title": "",
-            "link_url": "",
-            "link_text": "View all"
-          }
-        }
-      },
-      "block_order": [
-        "collection-1"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "hide_product_information": false,
-        "stack_products": false,
-        "products_per_row_mobile": "2",
-        "products_per_row_desktop": 4,
-        "horizontal_spacing_factor": 1,
-        "vertical_spacing_factor": 1,
-        "subheading": "Featured collection"
       }
     },
     "multi-column": {
@@ -182,128 +251,6 @@
         "content": ""
       }
     },
-    "collection-list": {
-      "type": "collection-list",
-      "blocks": {
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-2": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-3": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-4": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-5": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        },
-        "collection-6": {
-          "type": "collection",
-          "settings": {
-            "color_scheme": "",
-            "collection": "",
-            "expand_collection": false,
-            "content_position": "place-self-end-start text-start",
-            "subheading": "",
-            "title": "",
-            "button_text": "View products",
-            "button_link": "",
-            "button_style": "solid",
-            "overlay_color": "#000000",
-            "overlay_opacity": 30
-          }
-        }
-      },
-      "block_order": [
-        "collection-1",
-        "collection-2",
-        "collection-3",
-        "collection-4",
-        "collection-5",
-        "collection-6"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "image_size": "auto",
-        "show_text_outside": false,
-        "space_items": true,
-        "stack_collections": true,
-        "collections_per_row_mobile": "1",
-        "collections_per_row_desktop": 3,
-        "subheading": "",
-        "title": "",
-        "content": ""
-      }
-    },
     "before-after": {
       "type": "before-after",
       "blocks": {
@@ -342,57 +289,6 @@
         "cursor_initial_position": 50,
         "cursor_background": "#ffffff",
         "cursor_arrows_color": "#000000"
-      }
-    },
-    "image-with-text-scroll": {
-      "type": "images-with-text-scroll",
-      "blocks": {
-        "item-1": {
-          "type": "image_with_text",
-          "settings": {
-            "subheading": "",
-            "title": "#1",
-            "content": "<p>Welcome your customers to your store by sharing temporary offers or explaining to them what your products are about.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
-        },
-        "item-2": {
-          "type": "image_with_text",
-          "settings": {
-            "subheading": "",
-            "title": "#2",
-            "content": "<p>Create trust with your customers by explaining the story of your brand. Share your values or what is important to you.</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
-        },
-        "item-3": {
-          "type": "image_with_text",
-          "settings": {
-            "subheading": "",
-            "title": "#3",
-            "content": "<p>Share information about your product with your customers. Describe a product, and share info about your production process...</p>",
-            "link_text": "",
-            "link_url": "",
-            "link_style": "solid"
-          }
-        }
-      },
-      "block_order": [
-        "item-1",
-        "item-2",
-        "item-3"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "image_position": "start",
-        "text_alignment": "center",
-        "heading_tag": "h3",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "multiple-media-with-text": {
@@ -508,11 +404,10 @@
   "order": [
     "video_dLtUzR",
     "logo_list_JTBwLL",
-    "featured-collections",
+    "image_with_text_raBWtd",
+    "image_with_text_iYaMEh",
     "multi-column",
-    "collection-list",
     "before-after",
-    "image-with-text-scroll",
     "multiple-media-with-text",
     "newsletter",
     "shop-the-look",
