@@ -228,6 +228,45 @@
         "button_link": "",
         "button_text": "View all"
       }
+    },
+    "image_with_text_block_7GpFAg": {
+      "type": "image-with-text-block",
+      "blocks": {
+        "subheading_EpzwTB": {
+          "type": "subheading",
+          "settings": {
+            "text": "AK'S VISION"
+          }
+        },
+        "richtext_XWjYJh": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>At AK Housing, our mission is to revolutionise the standard of housing construction and affordability with an innovative, technology-based solution to mass produce homes using advanced manufacturing. Our patented technology allows us to create modular, prefabricated homes that are designed to fold up for transport which significantly decreases the cost of shipping & the complexity of installation. Welcome to the housing revolution!</p>"
+          }
+        },
+        "link_Gi6V3N": {
+          "type": "link",
+          "settings": {
+            "text": "find out more",
+            "url": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_EpzwTB",
+        "richtext_XWjYJh",
+        "link_Gi6V3N"
+      ],
+      "name": "t:sections.image_with_text_block.presets.image_with_text_block.name",
+      "settings": {
+        "color_scheme": "",
+        "image_size": "md",
+        "image": "shopify://shop_images/4ed781ec1077402d80e57670aa082439-goods_jpeg.webp",
+        "mobile_image": "shopify://shop_images/4ed781ec1077402d80e57670aa082439-goods_jpeg.webp",
+        "content_width": "lg",
+        "enable_parallax": true,
+        "remove_vertical_spacing": true
+      }
     }
   },
   "order": [
@@ -236,6 +275,7 @@
     "image_with_text_raBWtd",
     "image_with_text_iYaMEh",
     "contact_WRGExL",
-    "blog_posts_cmqfQ8"
+    "blog_posts_cmqfQ8",
+    "image_with_text_block_7GpFAg"
   ]
 }
