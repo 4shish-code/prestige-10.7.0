@@ -92,8 +92,8 @@
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "subheading": "As seen in",
-        "title": "",
+        "subheading": "",
+        "title": "As seen in",
         "stack_on_mobile": true,
         "items_per_row": 4,
         "logo_item_background": "",
