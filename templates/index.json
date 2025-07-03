@@ -195,7 +195,7 @@
         "separate_section_with_border": true,
         "image": "shopify://shop_images/apple-cabin.png",
         "reveal_on_scroll": true,
-        "image_position": "start",
+        "image_position": "end",
         "content_width": "sm",
         "remove_vertical_spacing": true
       }
@@ -242,8 +242,8 @@
       "name": "t:sections.image_with_text_block.presets.image_with_text_block.name",
       "settings": {
         "color_scheme": "",
-        "image_size": "md",
-        "mobile_image": "shopify://shop_images/4ed781ec1077402d80e57670aa082439-goods_jpeg.webp",
+        "image_size": "sm",
+        "image": "shopify://shop_images/20250413_1340_House-in-Nature_remix_01jrpctb52ecys24dg65gt293v-1_inPixio_5a94f5ec-fcde-4bf0-a290-ca5f846d54f2.jpg",
         "content_width": "lg",
         "enable_parallax": true,
         "remove_vertical_spacing": true
