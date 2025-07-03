@@ -15,23 +15,89 @@
         "heading_GmHPhp": {
           "type": "heading",
           "settings": {
-            "text": "Video",
+            "text": "The Future of housing",
+            "heading_tag": "h2"
+          }
+        },
+        "heading_jMytLX": {
+          "type": "heading",
+          "settings": {
+            "text": "Delivered to you",
             "heading_tag": "h2"
           }
         }
       },
       "block_order": [
-        "heading_GmHPhp"
+        "heading_GmHPhp",
+        "heading_jMytLX"
       ],
       "name": "t:sections.video.presets.video.name",
       "settings": {
-        "autoplay": false,
-        "show_controls": true,
+        "autoplay": true,
+        "show_controls": false,
         "video_size": "md",
         "video": "shopify://files/videos/hjvjhv.mov",
         "mobile_video": "shopify://files/videos/hjvjhv.mov",
         "external_video_url": "",
         "text_color": "#ffffff"
+      }
+    },
+    "logo_list_JTBwLL": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_gHzdUF": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_kNdMKr": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_ddn9b3": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_PPDbhk": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        },
+        "logo_aGj9Wa": {
+          "type": "logo",
+          "settings": {
+            "logo_width": 120,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_gHzdUF",
+        "logo_kNdMKr",
+        "logo_ddn9b3",
+        "logo_PPDbhk",
+        "logo_aGj9Wa"
+      ],
+      "name": "t:sections.logo_list.presets.logo_list.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "subheading": "As seen in",
+        "title": "",
+        "stack_on_mobile": true,
+        "items_per_row": 4,
+        "logo_item_background": "",
+        "logo_item_border": ""
       }
     },
     "featured-collections": {
@@ -441,6 +507,7 @@
   },
   "order": [
     "video_dLtUzR",
+    "logo_list_JTBwLL",
     "featured-collections",
     "multi-column",
     "collection-list",
