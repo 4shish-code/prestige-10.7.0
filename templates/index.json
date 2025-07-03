@@ -113,7 +113,7 @@
           "settings": {
             "style": "solid",
             "text": "LEARN More",
-            "url": "",
+            "url": "shopify://pages/contact",
             "background": "",
             "text_color": ""
           }
