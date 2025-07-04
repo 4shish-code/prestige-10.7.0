@@ -172,7 +172,7 @@
         "separate_section_with_border": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<p>Write or copy/paste Liquid code</p>",
+        "liquid": "<!-- Elfsight Pricing Table | Untitled Pricing Table -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-4e204a45-04c3-437a-9603-7ef99cdcb8a4\" data-elfsight-app-lazy></div>",
         "text_alignment": "center"
       }
     },
