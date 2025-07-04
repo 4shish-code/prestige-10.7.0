@@ -59,11 +59,24 @@
         "liquid": "<!-- Elfsight Pricing Table | Untitled Pricing Table -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-4e204a45-04c3-437a-9603-7ef99cdcb8a4\" data-elfsight-app-lazy></div>",
         "text_alignment": "center"
       }
+    },
+    "custom_liquid_nKLemT": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!-- Elfsight Form Builder | Untitled Form Builder -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-cf6d64e5-ecc2-4ee5-9908-13a73943188a\" data-elfsight-app-lazy></div>",
+        "text_alignment": "center"
+      }
     }
   },
   "order": [
     "video_MJ4hVD",
     "main",
-    "custom_liquid_pc6pbh"
+    "custom_liquid_pc6pbh",
+    "custom_liquid_nKLemT"
   ]
 }
