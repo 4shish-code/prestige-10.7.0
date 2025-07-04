@@ -42,54 +42,16 @@
         "text_color": "#ffffff"
       }
     },
-    "logo_list_JTBwLL": {
-      "type": "logo-list",
-      "blocks": {
-        "logo_gHzdUF": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_kNdMKr": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_ddn9b3": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        },
-        "logo_PPDbhk": {
-          "type": "logo",
-          "settings": {
-            "logo_width": 120,
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "logo_gHzdUF",
-        "logo_kNdMKr",
-        "logo_ddn9b3",
-        "logo_PPDbhk"
-      ],
-      "name": "t:sections.logo_list.presets.logo_list.name",
+    "custom_liquid_jUbHjP": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
       "settings": {
         "color_scheme": "",
         "separate_section_with_border": true,
-        "subheading": "",
-        "title": "As seen in",
-        "stack_on_mobile": true,
-        "items_per_row": 4,
-        "logo_item_background": "",
-        "logo_item_border": ""
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!-- Elfsight Logo Showcase | Untitled Logo Showcase -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-c0146858-7688-4128-992b-b38f27545238\" data-elfsight-app-lazy></div>",
+        "text_alignment": "center"
       }
     },
     "image_with_text_raBWtd": {
@@ -252,7 +214,7 @@
   },
   "order": [
     "video_dLtUzR",
-    "logo_list_JTBwLL",
+    "custom_liquid_jUbHjP",
     "image_with_text_raBWtd",
     "image_with_text_iYaMEh",
     "contact_WRGExL",
