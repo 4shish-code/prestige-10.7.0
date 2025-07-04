@@ -16,6 +16,12 @@
           "type": "vendor",
           "settings": {}
         },
+        "liquid_8QdzBR": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .review-summary {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    gap: 0.4rem;\n    font-family: 'Instrument Sans', sans-serif;\n    color: #49634A;\n    font-size: 0.75rem;\n    font-weight: 500; /* Slightly bold */\n    text-align: center;\n    margin-bottom: 1rem;\n  }"
+          }
+        },
         "title": {
           "type": "title",
           "settings": {
@@ -108,6 +114,7 @@
       },
       "block_order": [
         "vendor",
+        "liquid_8QdzBR",
         "title",
         "price",
         "payment_terms",
@@ -133,51 +140,6 @@
         "enable_video_looping": true,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3
-      }
-    },
-    "tabs_VNKbw6": {
-      "type": "tabs",
-      "blocks": {
-        "tab_J9MJqK": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 1",
-            "content": "<p>Use this text to share information about your brand with your customers.</p>",
-            "page": "",
-            "open_on_mobile": false
-          }
-        },
-        "tab_BwVzCC": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 2",
-            "content": "<p>Describe a product, share announcements, or welcome customers to your store.</p>",
-            "page": "",
-            "open_on_mobile": false
-          }
-        },
-        "tab_UVph9C": {
-          "type": "tab",
-          "settings": {
-            "title": "Tab 3",
-            "content": "<p>Share information about your shipping rates, return policy or contact information.</p>",
-            "page": "",
-            "open_on_mobile": false
-          }
-        }
-      },
-      "block_order": [
-        "tab_J9MJqK",
-        "tab_BwVzCC",
-        "tab_UVph9C"
-      ],
-      "name": "t:sections.tabs.presets.tab.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "subheading": "",
-        "title": "",
-        "text_alignment": "center"
       }
     },
     "custom_liquid_hnbgUE": {
@@ -265,7 +227,6 @@
   },
   "order": [
     "main",
-    "tabs_VNKbw6",
     "custom_liquid_hnbgUE",
     "related-products",
     "custom_liquid_DHwWcx",
