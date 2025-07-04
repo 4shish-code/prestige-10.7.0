@@ -53,11 +53,33 @@
       "name": "t:sections.custom_liquid.presets.custom_liquid.name",
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
         "liquid": "<!-- Elfsight Photo Gallery | Untitled Photo Gallery -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-cf9f21e6-f6fa-4118-817c-d7c780b01463\" data-elfsight-app-lazy></div>",
         "text_alignment": "center"
+      }
+    },
+    "rich_text_wPrFGD": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_yTnRKM": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_yTnRKM"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": false,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
       }
     },
     "custom_liquid_pc6pbh": {
@@ -89,6 +111,7 @@
     "video_MJ4hVD",
     "main",
     "custom_liquid_Q4pkab",
+    "rich_text_wPrFGD",
     "custom_liquid_pc6pbh",
     "custom_liquid_nKLemT"
   ]
