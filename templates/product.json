@@ -59,10 +59,12 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "disabled": true,
           "settings": {}
         },
         "buy_buttons": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
@@ -103,7 +105,7 @@
         "center_basic_info": false,
         "desktop_media_layout": "carousel_thumbnails_left",
         "desktop_media_grid_gap": 30,
-        "mobile_controls": "dots",
+        "mobile_controls": "thumbnails",
         "enable_media_autoplay": true,
         "enable_video_looping": true,
         "enable_image_zoom": true,
@@ -120,6 +122,35 @@
         "remove_horizontal_spacing": false,
         "liquid": "<p>Write or copy/paste Liquid code</p>",
         "text_alignment": "center"
+      }
+    },
+    "rich_text_3jPNkb": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_gNRGc6": {
+          "type": "subheading",
+          "settings": {
+            "text": "A NOTE FROM OUR FOUNDERS"
+          }
+        },
+        "richtext_BcQt3t": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>I started Satori Sage to bring stillness and beauty into the everyday, inspired by the tea traditions passed down in my family.</p><p>Our teapots are handcrafted in Jingdezhen, China, where tea has been an art form for thousands of years. I worked closely with artisans to ensure every detail felt purposeful - from the weight of the glass to the quiet click of the magnetic lid.</p><p>Since sharing on social media, I’ve been overwhelmed by the response. Our batch is nearly gone, with only a few pieces remaining before we pause to restock for late July.</p><p>If you’ve managed to catch it in stock, it might just be meant for you :)</p><p></p><p>Warmly,</p><p>Aayan Sheikh, Kian Khan</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_gNRGc6",
+        "richtext_BcQt3t"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
       }
     },
     "related-products": {
@@ -143,6 +174,7 @@
   "order": [
     "main",
     "custom_liquid_hnbgUE",
+    "rich_text_3jPNkb",
     "related-products"
   ]
 }
