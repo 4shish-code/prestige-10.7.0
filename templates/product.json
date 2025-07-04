@@ -258,7 +258,7 @@
         "separate_section_with_border": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "",
+        "liquid": "<!-- Elfsight All-in-One Reviews | Untitled All-in-One Reviews -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-5f7d5799-1fdc-48f4-8c80-ccace8e9dcef\" data-elfsight-app-lazy></div>",
         "text_alignment": "center"
       }
     }
