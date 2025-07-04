@@ -46,6 +46,15 @@
             "show_below_gallery": false
           }
         },
+        "inventory_rMfLhD": {
+          "type": "inventory",
+          "settings": {
+            "show_in_stock_quantity": true,
+            "low_inventory_threshold": 0,
+            "show_progress_bar": true,
+            "progress_bar_max_value": 50
+          }
+        },
         "variant_picker": {
           "type": "variant_picker",
           "disabled": true,
@@ -83,6 +92,18 @@
             "stack_products": false,
             "show_quick_buy": true
           }
+        },
+        "modal_Dacr6F": {
+          "type": "modal",
+          "settings": {
+            "button_title": "SECURE YOUR DEPOSIT",
+            "button_style": "solid",
+            "stretch_button": false,
+            "button_background": "",
+            "button_text_color": "",
+            "modal_title": "Modal title",
+            "modal_content": "<p>Write some content that will appear in a modal</p>"
+          }
         }
       },
       "block_order": [
@@ -92,10 +113,12 @@
         "payment_terms",
         "separator",
         "description",
+        "inventory_rMfLhD",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "complementary_products"
+        "complementary_products",
+        "modal_Dacr6F"
       ],
       "settings": {
         "color_scheme": "",
@@ -110,18 +133,6 @@
         "enable_video_looping": true,
         "enable_image_zoom": true,
         "max_image_zoom_level": 3
-      }
-    },
-    "custom_liquid_hnbgUE": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "<p>Write or copy/paste Liquid code</p>",
-        "text_alignment": "center"
       }
     },
     "rich_text_3jPNkb": {
@@ -153,6 +164,18 @@
         "remove_vertical_spacing": false
       }
     },
+    "custom_liquid_hnbgUE": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p>Write or copy/paste Liquid code</p>",
+        "text_alignment": "center"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -173,8 +196,8 @@
   },
   "order": [
     "main",
-    "custom_liquid_hnbgUE",
     "rich_text_3jPNkb",
+    "custom_liquid_hnbgUE",
     "related-products"
   ]
 }
