@@ -180,33 +180,16 @@
         "text_alignment": "center"
       }
     },
-    "rich_text_3jPNkb": {
-      "type": "rich-text",
-      "blocks": {
-        "subheading_gNRGc6": {
-          "type": "subheading",
-          "settings": {
-            "text": "A NOTE FROM OUR FOUNDERS"
-          }
-        },
-        "richtext_BcQt3t": {
-          "type": "richtext",
-          "settings": {
-            "content": "<p>I started Satori Sage to bring stillness and beauty into the everyday, inspired by the tea traditions passed down in my family.</p><p>Our teapots are handcrafted in Jingdezhen, China, where tea has been an art form for thousands of years. I worked closely with artisans to ensure every detail felt purposeful - from the weight of the glass to the quiet click of the magnetic lid.</p><p>Since sharing on social media, I’ve been overwhelmed by the response. Our batch is nearly gone, with only a few pieces remaining before we pause to restock for late July.</p><p>If you’ve managed to catch it in stock, it might just be meant for you :)</p><p></p><p>Warmly,</p><p>Aayan Sheikh, Kian Khan</p>"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_gNRGc6",
-        "richtext_BcQt3t"
-      ],
-      "name": "t:sections.rich_text.presets.rich_text.name",
+    "custom_liquid_hnbgUE": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
       "settings": {
-        "color_scheme": "scheme-2",
+        "color_scheme": "",
         "separate_section_with_border": true,
-        "content_width": "sm",
-        "text_position": "center",
-        "remove_vertical_spacing": false
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!-- Elfsight Pricing Table | Untitled Pricing Table -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-4e204a45-04c3-437a-9603-7ef99cdcb8a4\" data-elfsight-app-lazy></div>",
+        "text_alignment": "center"
       }
     },
     "related-products": {
@@ -238,7 +221,36 @@
         "text_alignment": "center"
       }
     },
-    "custom_liquid_hnbgUE": {
+    "rich_text_3jPNkb": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_gNRGc6": {
+          "type": "subheading",
+          "settings": {
+            "text": "A NOTE FROM OUR FOUNDERS"
+          }
+        },
+        "richtext_BcQt3t": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>I started Satori Sage to bring stillness and beauty into the everyday, inspired by the tea traditions passed down in my family.</p><p>Our teapots are handcrafted in Jingdezhen, China, where tea has been an art form for thousands of years. I worked closely with artisans to ensure every detail felt purposeful - from the weight of the glass to the quiet click of the magnetic lid.</p><p>Since sharing on social media, I’ve been overwhelmed by the response. Our batch is nearly gone, with only a few pieces remaining before we pause to restock for late July.</p><p>If you’ve managed to catch it in stock, it might just be meant for you :)</p><p></p><p>Warmly,</p><p>Aayan Sheikh, Kian Khan</p>"
+          }
+        }
+      },
+      "block_order": [
+        "subheading_gNRGc6",
+        "richtext_BcQt3t"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-2",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
+    "custom_liquid_FfYzet": {
       "type": "custom-liquid",
       "name": "t:sections.custom_liquid.presets.custom_liquid.name",
       "settings": {
@@ -246,7 +258,7 @@
         "separate_section_with_border": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<!-- Elfsight Pricing Table | Untitled Pricing Table -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-4e204a45-04c3-437a-9603-7ef99cdcb8a4\" data-elfsight-app-lazy></div>",
+        "liquid": "",
         "text_alignment": "center"
       }
     }
@@ -257,6 +269,7 @@
     "custom_liquid_hnbgUE",
     "related-products",
     "custom_liquid_DHwWcx",
-    "rich_text_3jPNkb"
+    "rich_text_3jPNkb",
+    "custom_liquid_FfYzet"
   ]
 }
