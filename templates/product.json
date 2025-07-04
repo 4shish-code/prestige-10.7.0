@@ -98,7 +98,7 @@
           "settings": {
             "button_title": "SECURE YOUR DEPOSIT",
             "button_style": "solid",
-            "stretch_button": false,
+            "stretch_button": true,
             "button_background": "",
             "button_text_color": "",
             "modal_title": "Modal title",
