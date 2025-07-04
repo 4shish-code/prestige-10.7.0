@@ -48,6 +48,18 @@
         "page_width": "xs"
       }
     },
+    "custom_liquid_Q4pkab": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<!-- Elfsight Photo Gallery | Untitled Photo Gallery -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-cf9f21e6-f6fa-4118-817c-d7c780b01463\" data-elfsight-app-lazy></div>",
+        "text_alignment": "center"
+      }
+    },
     "custom_liquid_pc6pbh": {
       "type": "custom-liquid",
       "name": "t:sections.custom_liquid.presets.custom_liquid.name",
@@ -76,6 +88,7 @@
   "order": [
     "video_MJ4hVD",
     "main",
+    "custom_liquid_Q4pkab",
     "custom_liquid_pc6pbh",
     "custom_liquid_nKLemT"
   ]
