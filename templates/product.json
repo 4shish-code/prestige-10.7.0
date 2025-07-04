@@ -63,7 +63,6 @@
         },
         "buy_buttons": {
           "type": "buy_buttons",
-          "disabled": true,
           "settings": {
             "show_payment_button": true,
             "show_gift_card_recipient": true,
@@ -111,6 +110,18 @@
         "max_image_zoom_level": 3
       }
     },
+    "custom_liquid_hnbgUE": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "<p>Write or copy/paste Liquid code</p>",
+        "text_alignment": "center"
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -131,6 +142,7 @@
   },
   "order": [
     "main",
+    "custom_liquid_hnbgUE",
     "related-products"
   ]
 }
