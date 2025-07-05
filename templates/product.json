@@ -170,12 +170,34 @@
         "max_image_zoom_level": 3
       }
     },
+    "rich_text_rhA9PQ": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_x8iM3j": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Please Note: All prices listed in USD</p><p>We deliver internationally so when you reach out, we will provide your exact price in your local currency.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_x8iM3j"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "custom_liquid_hnbgUE": {
       "type": "custom-liquid",
       "name": "t:sections.custom_liquid.presets.custom_liquid.name",
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
         "liquid": "<!-- Elfsight Pricing Table | Untitled Pricing Table -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-4e204a45-04c3-437a-9603-7ef99cdcb8a4\" data-elfsight-app-lazy></div>",
@@ -243,6 +265,20 @@
             "icon": "none",
             "icon_width": 16
           }
+        },
+        "question_naYD8D": {
+          "type": "question",
+          "settings": {
+            "question": "Question",
+            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+          }
+        },
+        "question_Pcd77z": {
+          "type": "question",
+          "settings": {
+            "question": "Question",
+            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+          }
         }
       },
       "block_order": [
@@ -253,7 +289,9 @@
         "category_UKMQ7d",
         "question_LKX9Cf",
         "question_qRcA7D",
-        "category_xYdtXg"
+        "category_xYdtXg",
+        "question_naYD8D",
+        "question_Pcd77z"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
@@ -261,7 +299,7 @@
         "separate_section_with_border": true,
         "show_categories": false,
         "subheading": "",
-        "title": "What makes Ak Housing UInqiue?",
+        "title": "What makes Ak Housing Unqiue?",
         "content": ""
       }
     },
@@ -280,18 +318,6 @@
         "subheading": "",
         "title": "Related products",
         "content": ""
-      }
-    },
-    "custom_liquid_n4EPNq": {
-      "type": "custom-liquid",
-      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
-      "settings": {
-        "color_scheme": "",
-        "separate_section_with_border": true,
-        "remove_vertical_spacing": false,
-        "remove_horizontal_spacing": false,
-        "liquid": "what makes AK housing unique",
-        "text_alignment": "center"
       }
     },
     "custom_liquid_jYk9Fq": {
@@ -314,17 +340,17 @@
         "separate_section_with_border": true,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
-        "liquid": "<!-- Elfsight Testimonials Slider | Untitled Testimonials Slider 3 -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-5b7a2524-21cb-48c1-b9aa-c36aa8752266\" data-elfsight-app-lazy></div>",
+        "liquid": "<!-- Elfsight Testimonials Slider | Untitled Testimonials Slider 2 -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-b71b2514-8a0f-4b1d-b1b3-cbe7c76c91b9\" data-elfsight-app-lazy></div>",
         "text_alignment": "center"
       }
     }
   },
   "order": [
     "main",
+    "rich_text_rhA9PQ",
     "custom_liquid_hnbgUE",
     "faq_34BK9Q",
     "related-products",
-    "custom_liquid_n4EPNq",
     "custom_liquid_jYk9Fq",
     "custom_liquid_FfYzet"
   ]
