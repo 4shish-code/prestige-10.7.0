@@ -246,7 +246,7 @@
         "category_UKMQ7d": {
           "type": "category",
           "settings": {
-            "title": "Speed",
+            "title": "Speed: Precise & Refined",
             "icon": "none",
             "icon_width": 16
           }
@@ -254,15 +254,15 @@
         "question_LKX9Cf": {
           "type": "question",
           "settings": {
-            "question": "Question",
-            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+            "question": "Pre-Engineered, Ready-to-Build Designs",
+            "answer": "<p>Our base models are fully engineered, tested, and approved - allowing for faster production saving the long 12-month waits and the endless back-and-forth on designs</p><p>Just a streamlined process to get your home built and on its way to you!</p>"
           }
         },
         "question_qRcA7D": {
           "type": "question",
           "settings": {
-            "question": "Question",
-            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+            "question": "Global Fulfillment Strategy",
+            "answer": "<p>Our trusted logistics partners expertly manage port-to-door delivery, customs clearance, and warehousing with a vast network across key regions such as the U.S., U.K., Europe and Australia & NZ.</p><p>Your home won’t sit idle waiting to ship - it moves quickly, smoothly, and securely.</p><p></p>"
           }
         },
         "category_xYdtXg": {
