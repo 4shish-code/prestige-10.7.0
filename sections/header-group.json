@@ -39,10 +39,10 @@
       "name": "t:sections.countdown_timer.presets.countdown_timer.name",
       "settings": {
         "color_scheme": "",
-        "content": "Promote your current offer",
+        "content": "Anniversary exclusive ends in",
         "link_text": "",
         "link_url": "",
-        "expiration_date": "",
+        "expiration_date": "24:00",
         "expiration_behavior": "leave",
         "desktop_justification": "space-between"
       }
