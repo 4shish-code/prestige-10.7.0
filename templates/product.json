@@ -293,6 +293,13 @@
             "question": "Third-Party Quality Control",
             "answer": "<p>Quality isn’t just a promise, it’s a guarantee. </p><p>Independent inspectors visit every unit before it leaves the factory, checking everything from floor leveling to electrical output. </p><p>Nothing ships unless it meets our high standards. And you’ll receive a full quality control report - complete with photos - before making the final payment.</p>"
           }
+        },
+        "question_CQkP8B": {
+          "type": "question",
+          "settings": {
+            "question": "Structurally Engineered, Globally Rated",
+            "answer": "<p>Our homes are built to last. Every unit meets international standards for structural strength, insulation, and fire safety. </p><p>Need certifications like ASTM E84, CE, or NFPA? They’re not an afterthought - they come standard, engineered into every build from day one.</p>"
+          }
         }
       },
       "block_order": [
@@ -307,7 +314,8 @@
         "question_LHK48X",
         "category_xYdtXg",
         "question_naYD8D",
-        "question_Pcd77z"
+        "question_Pcd77z",
+        "question_CQkP8B"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
