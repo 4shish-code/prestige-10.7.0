@@ -243,6 +243,20 @@
             "icon": "none",
             "icon_width": 16
           }
+        },
+        "question_naYD8D": {
+          "type": "question",
+          "settings": {
+            "question": "Question",
+            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+          }
+        },
+        "question_Pcd77z": {
+          "type": "question",
+          "settings": {
+            "question": "Question",
+            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+          }
         }
       },
       "block_order": [
@@ -253,7 +267,9 @@
         "category_UKMQ7d",
         "question_LKX9Cf",
         "question_qRcA7D",
-        "category_xYdtXg"
+        "category_xYdtXg",
+        "question_naYD8D",
+        "question_Pcd77z"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
