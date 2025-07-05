@@ -170,12 +170,34 @@
         "max_image_zoom_level": 3
       }
     },
+    "rich_text_rhA9PQ": {
+      "type": "rich-text",
+      "blocks": {
+        "richtext_x8iM3j": {
+          "type": "richtext",
+          "settings": {
+            "content": "<p>Please Note: All prices listed in USD</p><p>We deliver internationally so when you reach out we will provide your exact price in your local currency.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "richtext_x8iM3j"
+      ],
+      "name": "t:sections.rich_text.presets.rich_text.name",
+      "settings": {
+        "color_scheme": "scheme-1",
+        "separate_section_with_border": true,
+        "content_width": "sm",
+        "text_position": "center",
+        "remove_vertical_spacing": false
+      }
+    },
     "custom_liquid_hnbgUE": {
       "type": "custom-liquid",
       "name": "t:sections.custom_liquid.presets.custom_liquid.name",
       "settings": {
         "color_scheme": "",
-        "separate_section_with_border": true,
+        "separate_section_with_border": false,
         "remove_vertical_spacing": false,
         "remove_horizontal_spacing": false,
         "liquid": "<!-- Elfsight Pricing Table | Untitled Pricing Table -->\n<script src=\"https://static.elfsight.com/platform/platform.js\" async></script>\n<div class=\"elfsight-app-4e204a45-04c3-437a-9603-7ef99cdcb8a4\" data-elfsight-app-lazy></div>",
@@ -337,6 +359,7 @@
   },
   "order": [
     "main",
+    "rich_text_rhA9PQ",
     "custom_liquid_hnbgUE",
     "faq_34BK9Q",
     "related-products",
