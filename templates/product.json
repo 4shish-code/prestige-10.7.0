@@ -265,6 +265,13 @@
             "answer": "<p>Our trusted logistics partners expertly manage port-to-door delivery, customs clearance, and warehousing with a vast network across key regions such as the U.S., U.K., Europe and Australia & NZ.</p><p>Your home won’t sit idle waiting to ship - it moves quickly, smoothly, and securely.</p><p></p>"
           }
         },
+        "question_LHK48X": {
+          "type": "question",
+          "settings": {
+            "question": "Priority Production for Verified Buyers",
+            "answer": "<p>Once your deposit is received, your order is secured and prioritised - no waitlists or batch delays. </p><p>Production begins within 48 hours of confirmation, giving you peace of mind that your home is being carefully crafted without delay.</p><p>Please Note: Due to increased demand and limited stock availability, we recommend placing your deposit soon to ensure your place in the production schedule. </p>"
+          }
+        },
         "category_xYdtXg": {
           "type": "category",
           "settings": {
@@ -297,6 +304,7 @@
         "category_UKMQ7d",
         "question_LKX9Cf",
         "question_qRcA7D",
+        "question_LHK48X",
         "category_xYdtXg",
         "question_naYD8D",
         "question_Pcd77z"
