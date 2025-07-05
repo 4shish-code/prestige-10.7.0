@@ -15,7 +15,7 @@
         "liquid_8QdzBR": {
           "type": "liquid",
           "settings": {
-            "liquid": "<style>\n  .review-summary {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    gap: 0.4rem;\n    font-family: 'Instrument Sans', sans-serif;\n    color: #49634A;\n    font-size: 0.75rem;\n    font-weight: 500; /* Slightly bold */\n    text-align: center;\n    margin-bottom: 1rem;\n  }\n\n  .review-stars {\n    letter-spacing: 0.15rem;\n  }\n</style>\n\n<div class=\"review-summary\">\n  <div class=\"review-stars\">★★★★★</div>\n  <div>Excellent 4.8 | 764 Reviews</div>\n</div>"
+            "liquid": "<style>\n  .review-summary {\n    display: flex;\n    justify-content: center;\n    align-items: center;\n    gap: 0.4rem;\n    font-family: 'Instrument Sans', sans-serif;\n    color: #49634A;\n    font-size: 0.75rem;\n    font-weight: 500; /* Slightly bold */\n    text-align: center;\n    margin-bottom: 1rem;\n  }\n\n  .review-stars {\n    letter-spacing: 0.15rem;\n  }\n</style>\n\n<div class=\"review-summary\">\n  <div class=\"review-stars\">★★★★★</div>\n  <div>Excellent 4.8 | 34 Reviews</div>\n</div>"
           }
         },
         "vendor": {
