@@ -225,15 +225,15 @@
         "question_L6dXB9": {
           "type": "question",
           "settings": {
-            "question": "How long will it take to get my orders?",
-            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "question": "Factory-Verified Partners",
+            "answer": "<p>Every supplier is directly audited, video-verified, and contract-bound before your order even opens. </p><p>We know where your house is built, by whom, and under what standards - offering you true peace of mind..</p>"
           }
         },
         "question_KmDWPh": {
           "type": "question",
           "settings": {
-            "question": "Any question?",
-            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "question": "Clear, Honest Pricing",
+            "answer": "<p>We keep it simple and transparent.</p><p>What you see is exactly what you pay - no hidden fees, no vague shipping estimates, and no last-minute “factory adjustments.” </p><p>Every cost is clearly laid out, every detail shared upfront, so you always know what you’re getting and exactly how much it costs.</p>"
           }
         },
         "category_UKMQ7d": {
