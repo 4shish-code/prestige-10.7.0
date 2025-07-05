@@ -176,7 +176,7 @@
         "richtext_x8iM3j": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Please Note: All prices listed in USD</p><p>We deliver internationally so when you reach out we will provide your exact price in your local currency.</p>"
+            "content": "<p>Please Note: All prices listed in USD</p><p>We deliver internationally so when you reach out, we will provide your exact price in your local currency.</p>"
           }
         }
       },
