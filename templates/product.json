@@ -155,6 +155,56 @@
         "text_alignment": "center"
       }
     },
+    "faq_34BK9Q": {
+      "type": "faq",
+      "blocks": {
+        "category_hWKeVR": {
+          "type": "category",
+          "disabled": true,
+          "settings": {
+            "title": "Order",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_NJ3fEK": {
+          "type": "question",
+          "settings": {
+            "question": "Do you ship overseas?",
+            "answer": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+          }
+        },
+        "question_L6dXB9": {
+          "type": "question",
+          "settings": {
+            "question": "How long will it take to get my orders?",
+            "answer": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+          }
+        },
+        "question_KmDWPh": {
+          "type": "question",
+          "settings": {
+            "question": "Any question?",
+            "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "category_hWKeVR",
+        "question_NJ3fEK",
+        "question_L6dXB9",
+        "question_KmDWPh"
+      ],
+      "name": "t:sections.faq.presets.faq.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "show_categories": false,
+        "subheading": "",
+        "title": "Our Specialities",
+        "content": ""
+      }
+    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -170,6 +220,30 @@
         "subheading": "",
         "title": "Related products",
         "content": ""
+      }
+    },
+    "custom_liquid_n4EPNq": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "what makes AK housing unique",
+        "text_alignment": "center"
+      }
+    },
+    "custom_liquid_jYk9Fq": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom_liquid.presets.custom_liquid.name",
+      "settings": {
+        "color_scheme": "",
+        "separate_section_with_border": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "comparison table",
+        "text_alignment": "center"
       }
     },
     "custom_liquid_FfYzet": {
@@ -188,7 +262,10 @@
   "order": [
     "main",
     "custom_liquid_hnbgUE",
+    "faq_34BK9Q",
     "related-products",
+    "custom_liquid_n4EPNq",
+    "custom_liquid_jYk9Fq",
     "custom_liquid_FfYzet"
   ]
 }
