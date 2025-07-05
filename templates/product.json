@@ -187,9 +187,8 @@
       "blocks": {
         "category_hWKeVR": {
           "type": "category",
-          "disabled": true,
           "settings": {
-            "title": "Order",
+            "title": "Trust",
             "icon": "none",
             "icon_width": 16
           }
@@ -214,13 +213,47 @@
             "question": "Any question?",
             "answer": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
           }
+        },
+        "category_UKMQ7d": {
+          "type": "category",
+          "settings": {
+            "title": "Speed",
+            "icon": "none",
+            "icon_width": 16
+          }
+        },
+        "question_LKX9Cf": {
+          "type": "question",
+          "settings": {
+            "question": "Question",
+            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+          }
+        },
+        "question_qRcA7D": {
+          "type": "question",
+          "settings": {
+            "question": "Question",
+            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+          }
+        },
+        "category_xYdtXg": {
+          "type": "category",
+          "settings": {
+            "title": "Safety",
+            "icon": "none",
+            "icon_width": 16
+          }
         }
       },
       "block_order": [
         "category_hWKeVR",
         "question_NJ3fEK",
         "question_L6dXB9",
-        "question_KmDWPh"
+        "question_KmDWPh",
+        "category_UKMQ7d",
+        "question_LKX9Cf",
+        "question_qRcA7D",
+        "category_xYdtXg"
       ],
       "name": "t:sections.faq.presets.faq.name",
       "settings": {
@@ -228,7 +261,7 @@
         "separate_section_with_border": true,
         "show_categories": false,
         "subheading": "",
-        "title": "Our Specialities",
+        "title": "What makes Ak Housing UInqiue?",
         "content": ""
       }
     },
