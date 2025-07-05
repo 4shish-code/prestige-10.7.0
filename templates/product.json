@@ -275,7 +275,7 @@
         "category_xYdtXg": {
           "type": "category",
           "settings": {
-            "title": "Safety",
+            "title": "Security: At Every Step",
             "icon": "none",
             "icon_width": 16
           }
@@ -283,8 +283,8 @@
         "question_naYD8D": {
           "type": "question",
           "settings": {
-            "question": "Question",
-            "answer": "<p>Write a clear and concise answer to guide your customers.</p>"
+            "question": "Insured Transactions & Secure Payment Protection",
+            "answer": "<p>Your security is our top priority. </p><p>We split payments into two clear stages: one before production begins, and the second before shipping. The final payment is only released once you’ve received and approved detailed videos and all necessary certifications for your home.</p><p>If any adjustments or alterations are needed, they’re on us — at no extra cost to you. This way, you can feel confident your investment is fully protected and exactly what you expect.</p>"
           }
         },
         "question_Pcd77z": {
