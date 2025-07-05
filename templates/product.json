@@ -92,6 +92,7 @@
         },
         "complementary_products": {
           "type": "complementary_products",
+          "disabled": true,
           "settings": {
             "title": "Pairs well with",
             "products_count": 2,
@@ -111,6 +112,30 @@
             "modal_title": "Modal title",
             "modal_content": "<p>Write some content that will appear in a modal</p>"
           }
+        },
+        "feature_with_icon_dkYGA8": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "Order Now, As soon as 5 October",
+            "link": "",
+            "icon": "picto-delivery-truck",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
+        },
+        "feature_with_icon_WCrCdG": {
+          "type": "feature_with_icon",
+          "settings": {
+            "text": "3 Year Structural Warranty",
+            "link": "",
+            "icon": "picto-shield",
+            "icon_width": 16,
+            "background": "#ffffff",
+            "text_color": "#6b6b6b",
+            "border_color": ""
+          }
         }
       },
       "block_order": [
@@ -126,7 +151,9 @@
         "quantity_selector",
         "buy_buttons",
         "complementary_products",
-        "modal_Dacr6F"
+        "modal_Dacr6F",
+        "feature_with_icon_dkYGA8",
+        "feature_with_icon_WCrCdG"
       ],
       "settings": {
         "color_scheme": "",
