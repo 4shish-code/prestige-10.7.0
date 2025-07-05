@@ -57,7 +57,7 @@
           "type": "inventory",
           "settings": {
             "show_in_stock_quantity": true,
-            "low_inventory_threshold": 0,
+            "low_inventory_threshold": 6,
             "show_progress_bar": true,
             "progress_bar_max_value": 50
           }
